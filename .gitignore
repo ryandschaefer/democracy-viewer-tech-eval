@@ -1,0 +1,5 @@
+preprocessing_times/subsets/*.csv
+preprocessing_times/subsets/*.parquet
+.history
+*.DS_Store
+*.env
